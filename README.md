@@ -11,10 +11,10 @@
 <!-- Estatísticas do GitHub centralizadas -->
 <div align="center">
   <a href="https://github.com/lailaleal/lailaleal">
-    <img height="180" align="center" src="https://github-readme-stats.vercel.app/api?username=lailaleal&show_icons=true&theme=synthwave" />
+    <img height="160" align="center" src="https://github-readme-stats.vercel.app/api?username=lailaleal&show_icons=true&theme=synthwave" />
   </a>
   <a href="https://github.com/lailaleal/lailaleal">
-    <img height="180" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lailaleal&langs_count=8&layout=compact&theme=synthwave" />
+    <img height="160" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lailaleal&langs_count=8&layout=compact&theme=synthwave" />
   </a>
 </div>
 
