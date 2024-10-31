@@ -11,10 +11,10 @@
 <!-- Estatísticas do GitHub centralizadas -->
 <div align="center">
   <a href="https://github.com/lailaleal/lailaleal">
-    <img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=lailaleal&show_icons=true&theme=synthwave" />
+    <img height="180" align="center" src="https://github-readme-stats.vercel.app/api?username=lailaleal&show_icons=true&theme=synthwave" />
   </a>
   <a href="https://github.com/lailaleal/lailaleal">
-    <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lailaleal&langs_count=8&layout=compact&theme=synthwave" />
+    <img height="180" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lailaleal&langs_count=8&layout=compact&theme=synthwave" />
   </a>
 </div>
 
@@ -82,10 +82,10 @@
 <h2 align="center">Principais Repositórios:</h2>
 <div align="center">
   <a href="https://github.com/lailaleal/Estrutura_de_dados_1">
-    <img height="150" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lailaleal&repo=Estrutura_de_dados_1&show_owner=true&theme=synthwave" />
+    <img height="140" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lailaleal&repo=Estrutura_de_dados_1&show_owner=true&theme=synthwave" />
   </a>
   <a href="https://github.com/lailaleal/POO-1">
-    <img height="150" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lailaleal&repo=POO-1&show_owner=true&theme=synthwave" />
+    <img height="140" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lailaleal&repo=POO-1&show_owner=true&theme=synthwave" />
   </a>
 </div>
 
